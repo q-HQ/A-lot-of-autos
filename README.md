@@ -1,3 +1,5 @@
+# TO USE THIS DO PIP INSTALL KEYBOARD PYAUTOGUI
+
 # AUTO Tools Collection
 
 A collection of automation tools for various typing and clicking tasks.
